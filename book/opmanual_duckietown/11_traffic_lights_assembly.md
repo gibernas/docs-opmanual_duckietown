@@ -35,6 +35,8 @@ All parts should be glued together as showed in the pictures.
 
 ### Tube holder with big ground plate  
 
+Comment: Relative orientation of pieces is not clear
+
 
 <div figure-id="fig:G-1">
 <img src="images/G-1.jpg" style="width: 80%"/>
